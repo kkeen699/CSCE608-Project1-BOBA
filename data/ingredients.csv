@@ -1,0 +1,1282 @@
+id,name,exp
+1,1% low-fat milk,10
+2,93% lean ground beef,11
+3,98% fat-free cream of chicken soup,14
+4,a.1. original sauce,4
+5,acorn squash,8
+6,active dry yeast,7
+7,ahi tuna steaks,6
+8,albacore tuna,5
+9,albacore tuna in water,5
+10,all-purpose flour,8
+11,allspice,12
+12,almond extract,5
+13,almond flavoring,8
+14,almond flour,5
+15,almonds,8
+16,amaretto,10
+17,amarula cream liqueur,6
+18,amchur powder,10
+19,american cheese,4
+20,anaheim chilies,3
+21,anchovies,8
+22,angel flake coconut,12
+23,angel hair pasta,12
+24,anise oil,6
+25,anise-flavored liqueur,13
+26,apple,12
+27,apple cider,12
+28,apple cider vinegar,7
+29,apple crumble mix,14
+30,apple fruit filling and topping,11
+31,apple juice,5
+32,apples,7
+33,applesauce,10
+34,apricot brandy,3
+35,apricot nectar,11
+36,apricot preserves,4
+37,apricots in juice,3
+38,arborio rice,8
+39,artichoke,7
+40,artichoke heart,11
+41,artichoke hearts,3
+42,artichokes,5
+43,artificial sweetener,9
+44,asiago cheese,6
+45,asparagus,3
+46,au jus sauce,10
+47,avocado,8
+48,avocados,6
+49,baby bok choy,6
+50,baby carrots,9
+51,baby clams,5
+52,baby lima beans,14
+53,baby spinach,10
+54,bacon,3
+55,bacon grease,6
+56,baguette,3
+57,baked beans,14
+58,baking apples,12
+59,baking powder,9
+60,baking soda,9
+61,balsamic vinegar,5
+62,bamboo shoots,6
+63,banana,4
+64,banana liqueur,7
+65,bananas,6
+66,barbecue sauce,10
+67,basil,5
+68,basil pesto,3
+69,basil sprig,13
+70,basmati rice,13
+71,bay leaf,14
+72,bay leaves,6
+73,beef bouillon cube,8
+74,beef bouillon cubes,6
+75,beef broth,9
+76,beef flank steak,3
+77,beef gravy,12
+78,beef hot dogs,4
+79,beef roast,7
+80,beef round steak,8
+81,beef short ribs,14
+82,beef stew meat,8
+83,beef stock,4
+84,beef tenderloin,11
+85,beer,4
+86,beetroots,9
+87,beets,7
+88,bell pepper,7
+89,bibb lettuce,6
+90,bicarbonate of soda,10
+91,biscuit,3
+92,bittersweet chocolate,13
+93,black beans,9
+94,black olives,5
+95,black pepper,4
+96,black peppercorns,8
+97,black treacle,10
+98,black vinegar,3
+99,black-eyed peas,3
+100,blanched almond,13
+101,blanched slivered almond,12
+102,blue cheese,13
+103,blue cheese dressing,8
+104,blue curacao,3
+105,blueberries,5
+106,boiling water,9
+107,bone-in ham,4
+108,boneless beef top sirloin steaks,9
+109,boneless chicken,8
+110,boneless chuck roast,4
+111,boneless skinless chicken breast,3
+112,boneless skinless chicken breast halves,9
+113,boneless skinless chicken breasts,4
+114,boneless veal steaks,8
+115,bottled hot pepper sauce,7
+116,bottled lemon juice,6
+117,bourbon,6
+118,brandy,10
+119,bread,11
+120,bread flour,5
+121,bread machine yeast,5
+122,breadcrumbs,8
+123,breakfast sausage,10
+124,brewed coffee,4
+125,brine,5
+126,broccoli,3
+127,broccoli cheese soup,14
+128,broccoli florets,9
+129,broccoli rabe,11
+130,brown rice,9
+131,brown sugar,7
+132,buckwheat flour,5
+133,bulk sausage,12
+134,buns,6
+135,burgundy wine,3
+136,butter,4
+137,butter flavor crisco,3
+138,butter flavor extract,12
+139,buttermilk,14
+140,buttermilk biscuits,3
+141,butternut squash,11
+142,button mushroom,12
+143,button mushrooms,7
+144,cabbage,13
+145,cajun seasoning,10
+146,cake flour,12
+147,calamari,3
+148,calamari steaks,5
+149,campbell's cream of chicken soup,11
+150,candied cherry,8
+151,candied pineapple,11
+152,candy,4
+153,candy corn,11
+154,candy sprinkles,5
+155,canned black beans,4
+156,canned pumpkin,6
+157,canned tomato sauce,10
+158,canned tuna,13
+159,canned white beans,12
+160,cannellini beans,8
+161,canola oil,5
+162,cantaloupe,3
+163,cantaloupes,12
+164,capers,4
+165,caraway seed,11
+166,caraway seeds,8
+167,carbonated chocolate soda,8
+168,carbonated lemon-lime beverage,11
+169,cardamom,13
+170,carrot,6
+171,carrots,13
+172,cashews,14
+173,caster sugar,10
+174,catsup,4
+175,cauliflower,11
+176,cavatappi pasta,9
+177,cayenne,10
+178,cayenne pepper,11
+179,cayenne pepper sauce,13
+180,celery,4
+181,celery & leaves,8
+182,celery rib,11
+183,celery ribs,3
+184,celery salt,8
+185,center-cut bacon,3
+186,champagne,9
+187,cheddar cheese,14
+188,cheese,3
+189,cheese crackers,12
+190,cheese ravioli,6
+191,cherries,9
+192,cherry pie filling,4
+193,cherry tomatoes,7
+194,chicken,9
+195,chicken base,4
+196,chicken bouillon concentrate,12
+197,chicken bouillon cube,12
+198,chicken bouillon granule,7
+199,chicken bouillon granules,10
+200,chicken breast halves,8
+201,chicken breasts,12
+202,chicken broth,7
+203,chicken stock,8
+204,chicken tenderloins,3
+205,chicken tenders,5
+206,chicken thighs,14
+207,chicken wings,7
+208,chile,11
+209,chili,4
+210,chili beans,11
+211,chili paste with garlic,6
+212,chili pepper,9
+213,chili powder,7
+214,chili sauce,12
+215,chinese five spice powder,6
+216,chinese wine,12
+217,chipotle chile in adobo,13
+218,chipotle chiles,10
+219,chipotle-flavored marinade,13
+220,chive & onion cream cheese,7
+221,chives,14
+222,chocolate,6
+223,chocolate cake mix,6
+224,chocolate chips,11
+225,chocolate flavored coffee,10
+226,chocolate hazelnut spread,3
+227,chocolate star,3
+228,chocolate syrup,8
+229,chocolate wafer,6
+230,chocolate-covered caramel candies,11
+231,chocolate-covered raisins,10
+232,chopped tomato,3
+233,chopped tomatoes,7
+234,chow mein noodles,6
+235,chuck steaks,8
+236,chunky peanut butter,3
+237,chunky salsa,6
+238,cider vinegar,14
+239,cilantro,14
+240,cilantro leaf,6
+241,cinnamon,7
+242,cinnamon stick,14
+243,cinnamon sticks,7
+244,cinnamon sugar,12
+245,clam juice,5
+246,clams,5
+247,clarified butter,11
+248,clove,14
+249,coarse grain mustard,14
+250,coco lopez,14
+251,cocoa,3
+252,cocoa powder,6
+253,coconut,4
+254,coconut cream,13
+255,coconut milk,8
+256,coconut oil,13
+257,cod,12
+258,coffee,13
+259,coffee ice cream,9
+260,coffee liqueur,8
+261,coffee-mate,10
+262,cointreau liqueur,3
+263,cola,8
+264,cold water,8
+265,condensed cream of mushroom soup,7
+266,condensed golden mushroom soup,4
+267,condensed tomato soup,13
+268,confectioners' sugar,6
+269,contadina diced tomatoes,9
+270,cooked bacon,11
+271,cooked brown rice,13
+272,cooked chicken,8
+273,cooked long-grain rice,6
+274,cooked rice,7
+275,cooked sausage,14
+276,cooked scallops,5
+277,cooked turkey,14
+278,cooked white rice,8
+279,cooking oil,5
+280,cooking spray,9
+281,cool whip,4
+282,coriander,12
+283,coriander powder,6
+284,coriander seed,11
+285,corn,13
+286,corn chex,13
+287,corn chips,11
+288,corn flakes,13
+289,corn muffin mix,12
+290,corn syrup,6
+291,corn tortilla,5
+292,corn tortillas,6
+293,cornbread stuffing mix,10
+294,cornflour,4
+295,cornish hens,3
+296,cornmeal,11
+297,cornstarch,4
+298,cottage cheese,12
+299,cracked black pepper,11
+300,cracked pepper,5
+301,cracker,13
+302,cranberry juice,12
+303,cranberry sauce,13
+304,crawfish,13
+305,cream,10
+306,cream cheese,8
+307,cream of chicken soup,12
+308,cream of mushroom soup,11
+309,cream of potato soup,14
+310,cream of tartar,5
+311,cream-style cottage cheese,6
+312,creamed corn,14
+313,creamy peanut butter,11
+314,creme de cacao,9
+315,creme fraiche,5
+316,cremini mushrooms,12
+317,creole seasoning,10
+318,crescent rolls,4
+319,crookneck yellow squash,11
+320,crouton,3
+321,croutons,3
+322,crunchy peanut butter,11
+323,crushed pineapple,11
+324,crushed pineapple in syrup,5
+325,crushed pineapple with juice,4
+326,crushed red pepper flakes,10
+327,crushed tomatoes,10
+328,crystallized ginger,12
+329,cucumber,4
+330,cucumbers,10
+331,cumin,4
+332,cumin powder,14
+333,cumin seeds,10
+334,currants,9
+335,curry powder,14
+336,custard powder,5
+337,dark amber maple syrup,6
+338,dark brown sugar,12
+339,dark creme de cacao,9
+340,dark red kidney beans,14
+341,dark rum,9
+342,dark soy sauce,12
+343,date syrup,10
+344,dates,12
+345,deli corned beef,6
+346,devil's food cake mix,7
+347,diced green chilies,14
+348,diced pimentos,6
+349,diced tomato,9
+350,diced tomatoes,11
+351,diced tomatoes with green chilies,9
+352,diced tomatoes with juice,4
+353,dijon mustard,6
+354,dill,14
+355,dill seeds,13
+356,dill weed,10
+357,ditalini,6
+358,double cream,13
+359,dr. pepper cola,6
+360,drambuie,5
+361,dried apricots,9
+362,dried basil,9
+363,dried basil leaves,4
+364,dried bay leaf,7
+365,dried black-eyed peas,9
+366,dried cherries,6
+367,dried chipotle powder,5
+368,dried cranberries,9
+369,dried dill,11
+370,dried lima beans,8
+371,dried marjoram,7
+372,dried onion,13
+373,dried onion flakes,11
+374,dried oregano,11
+375,dried oregano leaves,6
+376,dried parsley,14
+377,dried parsley flakes,5
+378,dried plum,11
+379,dried rosemary,9
+380,dried sage,6
+381,dried tarragon,6
+382,dried thyme,4
+383,dried yeast,11
+384,dry cider,13
+385,dry milk,10
+386,dry mustard,5
+387,dry red wine,7
+388,dry sherry,8
+389,dry white wine,11
+390,dry yeast,5
+391,dulse flakes,13
+392,egg,7
+393,egg noodles,14
+394,egg white,5
+395,egg whites,13
+396,egg yolk,8
+397,egg yolks,13
+398,eggnog,7
+399,eggplant,6
+400,eggplants,5
+401,eggs,7
+402,elbow macaroni,3
+403,enchilada sauce,14
+404,english cucumbers,10
+405,english muffin,13
+406,evaporated milk,6
+407,extra firm tofu,8
+408,extra large eggs,14
+409,extra virgin olive oil,11
+410,fast rise yeast,12
+411,fat,8
+412,fat free chicken broth,8
+413,fat free cream cheese,8
+414,fat free tortillas,3
+415,fat-free cheddar cheese,3
+416,fat-free half-and-half,11
+417,fat-free mayonnaise,9
+418,fat-free whipped topping,10
+419,fennel,9
+420,fennel bulb,3
+421,feta,11
+422,feta cheese,9
+423,feta cubes,12
+424,figs,3
+425,fine breadcrumbs,12
+426,fine dry breadcrumb,12
+427,fine sea salt,12
+428,firm tofu,11
+429,fish stock,3
+430,five-spice powder,13
+431,flat leaf parsley,3
+432,flour,9
+433,flour tortillas,10
+434,frankfurters,6
+435,french bread,7
+436,french bread dough,13
+437,french vanilla flavored coffee creamer,7
+438,french vanilla instant pudding,9
+439,fresh asparagus,14
+440,fresh basil,12
+441,fresh basil leaf,4
+442,fresh blueberries,3
+443,fresh chives,4
+444,fresh cilantro,10
+445,fresh coarse ground black pepper,3
+446,fresh coriander,5
+447,fresh cranberries,14
+448,fresh dill,9
+449,fresh dill sprig,9
+450,fresh flat-leaf parsley,9
+451,fresh garlic,9
+452,fresh garlic clove,3
+453,fresh garlic cloves,6
+454,fresh ginger,6
+455,fresh ground black pepper,13
+456,fresh ground pepper,4
+457,fresh italian parsley,11
+458,fresh jalapeno peppers,9
+459,fresh jalapenos,13
+460,fresh lemon juice,6
+461,fresh lemon rind,11
+462,fresh lemon zest,14
+463,fresh lime juice,8
+464,fresh mint leaves,13
+465,fresh mushrooms,14
+466,fresh oregano,3
+467,fresh parmesan cheese,13
+468,fresh parsley,7
+469,fresh parsley leaves,14
+470,fresh pineapple,13
+471,fresh raspberries,14
+472,fresh raspberry,6
+473,fresh rosemary,8
+474,fresh shiitake mushrooms,12
+475,fresh spinach,6
+476,fresh spinach leaves,10
+477,fresh strawberries,12
+478,fresh thyme,14
+479,fresh thyme leave,10
+480,fresh thyme leaves,11
+481,fresh thyme sprigs,13
+482,fresh tomatoes,12
+483,fresh yeast cake,4
+484,frozen broccoli carrots cauliflower mix,14
+485,frozen brussels sprouts,11
+486,frozen chopped spinach,14
+487,frozen concentrated orange juice,5
+488,frozen corn in butter sauce,14
+489,frozen cut green beans,4
+490,frozen dough rolls,9
+491,frozen green beans,14
+492,frozen green pea,12
+493,frozen hash brown potatoes,8
+494,frozen italian cut green beans,7
+495,frozen lemonade concentrate,4
+496,frozen orange juice concentrate,14
+497,frozen peas,4
+498,frozen pie crusts,14
+499,frozen puff pastry,5
+500,frozen raspberries,12
+501,frozen raspberries in light syrup,7
+502,frozen spinach,8
+503,frozen sweet corn,7
+504,frozen tater tots,10
+505,fruit filling,13
+506,full-cream milk,10
+507,galliano,3
+508,garam masala,4
+509,garbanzo beans,7
+510,garbanzo flour,4
+511,garlic,13
+512,garlic clove,11
+513,garlic cloves,14
+514,garlic powder,12
+515,garlic salt,11
+516,garlic sauce,5
+517,gelatin,10
+518,gin,8
+519,ginger,4
+520,ginger ale,10
+521,ginger juice,3
+522,gingerroot,3
+523,gluten flour,6
+524,goat cheese,4
+525,golden brown sugar,5
+526,golden delicious apples,11
+527,golden raisin,11
+528,golden syrup,13
+529,good seasons italian dressing,12
+530,graham cracker crumbs,10
+531,graham cracker pie crusts,11
+532,graham crackers,12
+533,grand marnier,10
+534,granny smith apples,7
+535,granulated garlic,12
+536,granulated onion,4
+537,granulated sugar,4
+538,grape jelly,7
+539,grape leaves,3
+540,gravy,5
+541,green beans,9
+542,green bell pepper,3
+543,green bell peppers,3
+544,green cabbage,10
+545,green chilies,10
+546,green olives,9
+547,green onion,14
+548,green onions,9
+549,green pepper,6
+550,green peppers,10
+551,green serrano chilies,7
+552,green sweet peppers,4
+553,grenadine,3
+554,ground allspice,6
+555,ground almonds,3
+556,ground beef,8
+557,ground black pepper,6
+558,ground cardamom,7
+559,ground cayenne pepper,8
+560,ground chicken,10
+561,ground chuck,7
+562,ground cinnamon,6
+563,ground cloves,14
+564,ground coriander,8
+565,ground cumin,10
+566,ground flax seeds,13
+567,ground ginger,9
+568,ground mace,6
+569,ground meat,10
+570,ground nutmeg,13
+571,ground paprika,5
+572,ground pork,5
+573,ground red pepper,10
+574,ground thyme,14
+575,ground turmeric,3
+576,ground venison,12
+577,ground walnuts,9
+578,guinness stout,5
+579,half-and-half,14
+580,halibut steaks,11
+581,ham,3
+582,hamburger buns,4
+583,hardboiled egg,9
+584,haricot beans,11
+585,hazelnuts,14
+586,head of cabbage,14
+587,head romaine lettuce,5
+588,heavy cream,13
+589,heavy whipping cream,11
+590,herbes de provence,12
+591,hershey chocolate kiss,12
+592,hersheys chocolate syrup,14
+593,hoagie rolls,13
+594,hoisin sauce,4
+595,honey,8
+596,honey nut cheerios,10
+597,hot chocolate powder,12
+598,hot coffee,11
+599,hot dog buns,11
+600,hot italian sausage,11
+601,hot pepper,9
+602,hot pepper sauce,14
+603,hot roll mix,4
+604,hot sauce,4
+605,hot water,14
+606,hungry jack big flaky refrigerated biscuits,5
+607,ice,11
+608,ice cream,9
+609,ice cube,14
+610,ice cubes,7
+611,icing sugar,10
+612,imitation crabmeat,5
+613,instant chicken broth,5
+614,instant coffee,9
+615,instant coffee granules,9
+616,instant espresso,7
+617,instant yeast,11
+618,irish cream,7
+619,italian cheese blend,7
+620,italian sausage,6
+621,italian sausages,13
+622,italian seasoned breadcrumbs,5
+623,italian seasoning,11
+624,italian spices,13
+625,italian stewed tomatoes,9
+626,italian style breadcrumbs,9
+627,jalapeno,6
+628,jalapeno juice,13
+629,jalapeno pepper,9
+630,jalapeno peppers,7
+631,jalapenos,13
+632,jam,12
+633,jelly,4
+634,jicama,8
+635,juice,4
+636,jumbo shrimp,11
+637,kalamata olive,7
+638,kale,13
+639,kefalotiri,11
+640,ketchup,13
+641,key lime juice,3
+642,kidney beans,13
+643,kiwi,3
+644,kiwi fruit,5
+645,kosher dill pickles,3
+646,kosher salt,8
+647,kraft macaroni and cheese,5
+648,lamb leg steaks,10
+649,lard,11
+650,large shrimp,6
+651,lasagna noodles,6
+652,lean ground beef,7
+653,lean ground turkey,7
+654,lean lamb stew meat,3
+655,lebanon bologna,14
+656,leek,11
+657,leeks,14
+658,leg of lamb,6
+659,lemon,12
+660,lemon extract,6
+661,lemon juice,9
+662,lemon peel,14
+663,lemon pepper,6
+664,lemon slice,4
+665,lemon slices,5
+666,lemon wedge,10
+667,lemon wedges,3
+668,lemon zest,13
+669,"lemon, juice and zest of",6
+670,"lemon, juice of",3
+671,"lemon, rind of",7
+672,"lemon, zest of",11
+673,lemon-pepper seasoning,14
+674,lemongrass,14
+675,"lemons, rind of",3
+676,"lemons, zest of",4
+677,lettuce,14
+678,lettuce leaves,8
+679,licorice,12
+680,liempo,7
+681,light brown sugar,14
+682,light coconut milk,11
+683,light corn syrup,4
+684,light cream,5
+685,light mayonnaise,10
+686,light multi-grain english muffin,9
+687,light rum,13
+688,light sour cream,11
+689,lime,10
+690,lime juice,4
+691,"lime, juice of",6
+692,limes,7
+693,linguica sausage,12
+694,liquid honey,10
+695,liquid smoke,9
+696,little smokies sausage,8
+697,liver pate,12
+698,lobster tail meat,5
+699,long grain rice,3
+700,low sodium beef broth,6
+701,low sodium chicken broth,11
+702,low sodium vegetable broth,4
+703,low-carb flour tortillas,6
+704,low-fat buttermilk,5
+705,low-fat cheddar cheese,7
+706,low-fat coffee-flavored frozen yogurt,3
+707,low-fat cream cheese,5
+708,low-fat plain yogurt,9
+709,low-fat vanilla frozen yogurt,4
+710,low-fat whipped cream cheese,8
+711,low-fat yogurt,14
+712,m&m',5
+713,macadamia nuts,9
+714,macaroons,3
+715,madeira wine,5
+716,madras curry powder,4
+717,malibu coconut liqueur,7
+718,malted barley syrup,12
+719,mandarin oranges,12
+720,mango,5
+721,mangoes,4
+722,maple syrup,11
+723,maraschino cherry,4
+724,margarine,8
+725,marinade,10
+726,marmalade,14
+727,marsala wine,14
+728,marshmallow cream,5
+729,marshmallow creme,6
+730,marshmallows,5
+731,mascarpone cheese,3
+732,mashed potatoes,5
+733,matzo meal,8
+734,mayonnaise,8
+735,medium pasta shell,7
+736,medium shrimp,4
+737,melon liqueur,6
+738,microwave popcorn,12
+739,midori melon liqueur,9
+740,mild cheddar cheese,14
+741,milk,3
+742,milk chocolate,14
+743,milk chocolate chips,9
+744,minced beef,4
+745,minced garlic clove,9
+746,minced garlic cloves,14
+747,mincemeat,12
+748,mini chocolate chip,5
+749,mini chocolate chips,7
+750,mini marshmallows,4
+751,miniature chocolate chip,8
+752,miniature marshmallows,6
+753,miniature party rye rounds,14
+754,miniature semisweet chocolate chips,4
+755,mint leaf,12
+756,mint leaves,5
+757,mint sprig,13
+758,mint sprigs,9
+759,miracle whip,3
+760,mixed greens,10
+761,mixed italian herbs,11
+762,molasses,11
+763,monterey jack cheese,3
+764,mozzarella cheese,8
+765,mulling spices,8
+766,mushroom,7
+767,mushroom stems and pieces,14
+768,mushrooms,13
+769,mussels,9
+770,mustard,7
+771,mustard greens,12
+772,mustard seeds,13
+773,napa cabbage,6
+774,natural bran,10
+775,navy beans,8
+776,new mexico chile powder,10
+777,non-dairy powdered coffee creamer,8
+778,non-fat cooking spray,12
+779,non-fat powdered milk,9
+780,nonfat milk,9
+781,nonfat plain yogurt,7
+782,nonfat sour cream,11
+783,nonstick cooking spray,12
+784,nopales,6
+785,nutmeg,7
+786,nutritional yeast,9
+787,nuts,11
+788,oatmeal,7
+789,oats,13
+790,of fresh mint,3
+791,oil,13
+792,okra,13
+793,old bay seasoning,3
+794,old fashioned oats,10
+795,olive,8
+796,olive oil,3
+797,olive oil flavored cooking spray,6
+798,olives,11
+799,onion,14
+800,onion bagels,11
+801,onion powder,10
+802,onion soup mix,9
+803,onions,8
+804,orange,7
+805,orange bell pepper,13
+806,orange extract,10
+807,orange juice,9
+808,orange juice concentrate,9
+809,orange marmalade,6
+810,orange oil,10
+811,orange rind,6
+812,orange zest,13
+813,oranges,13
+814,oregano,6
+815,oregano leaves,13
+816,oreo cookies,12
+817,ortega chiles,3
+818,ortega taco seasoning,8
+819,oyster sauce,13
+820,oysters,12
+821,palm sugar,10
+822,pan dripping,3
+823,pancetta,11
+824,panir,3
+825,panko breadcrumbs,8
+826,papaya,10
+827,paprika,8
+828,paraffin wax block,7
+829,parmesan cheese,9
+830,parsley,8
+831,parsley flakes,8
+832,parsley sprig,6
+833,parsnip,8
+834,parsnips,5
+835,part-skim mozzarella cheese,10
+836,pasta,6
+837,pasta shells,6
+838,pastry for double-crust pie,12
+839,pastry shells,9
+840,peach,13
+841,peach juice,7
+842,peaches,10
+843,peaches in juice,5
+844,peanut butter,7
+845,peanut butter cookie mix,13
+846,peanut oil,12
+847,peanuts,13
+848,pear,11
+849,pearl barley,10
+850,pears,4
+851,pecan halves,12
+852,pecan nuts,7
+853,pecan pieces,7
+854,pecans,10
+855,pecorino romano cheese,9
+856,penne,6
+857,penne pasta,14
+858,pepper,3
+859,pepper sauce,5
+860,peppercorn,7
+861,pepperoncini peppers,5
+862,pepperoni,10
+863,pesto sauce,7
+864,philadelphia cream cheese,11
+865,picante sauce,11
+866,pickling cucumbers,13
+867,pickling salt,4
+868,pie crust,14
+869,pillsbury refrigerated biscuits,11
+870,pimiento,14
+871,pine nuts,8
+872,pineapple,14
+873,pineapple chunk,11
+874,pineapple chunks,14
+875,pineapple chunks in juice,10
+876,pineapple juice,10
+877,pineapple tidbits,4
+878,pinto beans,6
+879,pistachios,9
+880,pita bread,10
+881,pitted ripe olives,14
+882,pizza sauce,8
+883,plain breadcrumbs,11
+884,plain croissants,4
+885,plain fat-free yogurt,6
+886,plain flour,5
+887,plain soymilk,14
+888,plain yogurt,5
+889,plum tomatoes,4
+890,plums,13
+891,poblano chiles,14
+892,polenta,7
+893,pomegranate arils,4
+894,pomegranate juice,13
+895,popped corn,10
+896,poppy seed,10
+897,poppy seeds,12
+898,pork,9
+899,pork butt,5
+900,pork chops,5
+901,pork loin,13
+902,pork rib chops,3
+903,pork shoulder,4
+904,pork spareribs,9
+905,pork tenderloin,10
+906,portabella mushroom,6
+907,potato,7
+908,potato chips,8
+909,potato starch,8
+910,potatoes,8
+911,poultry seasoning,13
+912,powdered milk,11
+913,powdered sugar,8
+914,prawns,13
+915,prepared horseradish,11
+916,prepared mustard,14
+917,prepared stuffing,6
+918,processed swiss cheese,12
+919,prosciutto,12
+920,provolone cheese,5
+921,pudding,10
+922,puff pastry,5
+923,pumpkin,7
+924,pumpkin pie spice,6
+925,pure vanilla extract,7
+926,quick oatmeal,5
+927,quick-rising yeast,4
+928,quik chocolate milk mix,10
+929,radicchio,12
+930,radish,12
+931,radishes,8
+932,raisins,8
+933,ranch dressing mix,14
+934,ranch salad dressing,14
+935,raspberries,12
+936,raspberry liqueur,9
+937,raspberry-cranberry preserves,12
+938,raw cashews,11
+939,raw cranberries,4
+940,raw potatoes,5
+941,raw shrimp,11
+942,raw sugar,6
+943,red apple,10
+944,red beans,9
+945,red bell pepper,5
+946,red cabbage,10
+947,red capsicum,11
+948,red chili pepper flakes,13
+949,red chili powder,5
+950,red enchilada sauce,8
+951,red food coloring,7
+952,red grapefruits,3
+953,red hot sauce,8
+954,red kidney beans,6
+955,red lentils,8
+956,red licorice,14
+957,red onion,8
+958,red onions,13
+959,red pepper,14
+960,red pepper flakes,6
+961,red pepper sauce,9
+962,red potatoes,9
+963,red wine,7
+964,red wine vinegar,9
+965,reduced-fat cheddar cheese,11
+966,reduced-fat mayonnaise,8
+967,reduced-fat monterey jack cheese,4
+968,reduced-fat sour cream,4
+969,reduced-sodium fat-free chicken broth,12
+970,refrigerated crescent dinner rolls,8
+971,refrigerated pie crusts,12
+972,reynolds wrap foil,12
+973,rice,13
+974,rice krispies,11
+975,rice vinegar,3
+976,ricotta cheese,10
+977,rigatoni pasta,14
+978,ritz crackers,12
+979,ro-tel tomatoes,9
+980,roast beef,5
+981,roasted cashews,9
+982,roasted garlic,14
+983,roasting chickens,5
+984,roll,9
+985,rolled oats,6
+986,rolls,8
+987,roma tomatoes,14
+988,romaine lettuce,13
+989,romano cheese,5
+990,rose wine,6
+991,rosemary,10
+992,rotel,3
+993,rotel tomatoes & chilies,5
+994,rotini pasta,11
+995,rubbed sage,14
+996,rum,6
+997,rump roast,11
+998,russet potato,10
+999,russet potatoes,13
+1000,rutabagas,4
+1001,rye cocktail bread,5
+1002,rye flour,14
+1003,safflower oil,4
+1004,sage leaves,10
+1005,salad oil,9
+1006,salami,12
+1007,salmon,11
+1008,salmon fillet,4
+1009,salmon fillets,10
+1010,salsa,13
+1011,salt,7
+1012,salt & freshly ground black pepper,9
+1013,salt & pepper,4
+1014,salt and black pepper,13
+1015,salt and pepper,3
+1016,saltine crackers,8
+1017,sambal oelek,3
+1018,sauerkraut,7
+1019,sauvignon blanc wine,6
+1020,scallion,6
+1021,scallion top,6
+1022,scallions,9
+1023,scotch bonnet pepper,5
+1024,sea bass,11
+1025,sea salt,13
+1026,season salt,8
+1027,seasoned bread crumbs,7
+1028,seasoned croutons,12
+1029,seasoned dry bread crumb,4
+1030,seasoned stuffing mix,10
+1031,seasoning,10
+1032,seasoning salt,8
+1033,self-raising flour,12
+1034,self-rising flour,14
+1035,semi-sweet chocolate chips,4
+1036,semisweet baking chocolate,4
+1037,serrano chilies,11
+1038,serrano peppers,5
+1039,sesame oil,11
+1040,sesame seeds,14
+1041,shallot,5
+1042,shallots,13
+1043,shaoxing wine,14
+1044,sharp cheddar cheese,7
+1045,short-grain rice,14
+1046,shortcrust pastry,11
+1047,shortening,12
+1048,shredded coconut,14
+1049,shrimp,5
+1050,simple syrup,14
+1051,simply potatoes shredded hash browns,8
+1052,sirloin tip steaks,4
+1053,skim milk,8
+1054,skinless chicken breasts,11
+1055,skor english toffee bits,9
+1056,sliced almonds,5
+1057,sliced mushrooms,4
+1058,sliced water chestnuts,3
+1059,slivered almonds,12
+1060,sloppy joe seasoning mix,14
+1061,small caper,5
+1062,small curd cottage cheese,4
+1063,small pretzels,7
+1064,small shell pasta,3
+1065,small shrimp,9
+1066,smart balance butter spread,7
+1067,smoked bacon,3
+1068,smoked cheddar cheese,12
+1069,smoked salmon,8
+1070,smoked sausage,14
+1071,snickers candy bars,14
+1072,snow peas,6
+1073,soft breadcrumbs,7
+1074,soft taco-size flour tortillas,8
+1075,soft tofu,14
+1076,sole fillets,3
+1077,soup mix,3
+1078,sour cream,11
+1079,sourdough bread,14
+1080,sourdough starter,7
+1081,soy crumbles,13
+1082,soy sauce,9
+1083,soy yogurt,13
+1084,soya oil,5
+1085,soya sauce,12
+1086,soymilk,14
+1087,spaghetti,3
+1088,spaghetti sauce,11
+1089,spaghetti squash,11
+1090,spanish olives with pimento,10
+1091,spinach,3
+1092,splenda granular,3
+1093,splenda sugar substitute,12
+1094,spring onion,8
+1095,spring onions,11
+1096,star anise,11
+1097,star fruit,12
+1098,steak,7
+1099,steak sauce,10
+1100,stevia powder,11
+1101,stewed tomatoes,12
+1102,stewing beef,7
+1103,stewing chicken,13
+1104,stove top stuffing mix,12
+1105,strawberries,14
+1106,strawberry,3
+1107,strawberry jell-o gelatin dessert,8
+1108,strawberry preserves,6
+1109,strip steaks,10
+1110,sugar,14
+1111,sugar cubes,5
+1112,sugar-free strawberry gelatin,13
+1113,sunflower seed butter,13
+1114,sunflower seeds,6
+1115,sweet butter,6
+1116,sweet corn,12
+1117,sweet gherkins,5
+1118,sweet onion,5
+1119,sweet onion and pepper relish,3
+1120,sweet paprika,14
+1121,sweet pickles,5
+1122,sweet potato,6
+1123,sweet potatoes,14
+1124,sweet red pepper,4
+1125,sweet red wine,8
+1126,sweet relish,9
+1127,sweet yellow onion,4
+1128,sweetcorn,10
+1129,sweetened cocoa powder,9
+1130,sweetened condensed milk,7
+1131,swiss chard,13
+1132,swiss cheese,14
+1133,tabasco sauce,3
+1134,table salt,8
+1135,taco sauce,3
+1136,taco seasoning,12
+1137,taco seasoning mix,7
+1138,taco shells,14
+1139,tahini,12
+1140,tamari,4
+1141,tapenade,3
+1142,tart cherries,14
+1143,tart green apple,13
+1144,tequila,7
+1145,textured vegetable protein,6
+1146,thin spaghetti,7
+1147,thousand island dressing,11
+1148,thyme,9
+1149,tiger shrimp,6
+1150,tilapia fillets,10
+1151,toasted sesame oil,8
+1152,tofu,5
+1153,tomato paste,7
+1154,tomato sauce,6
+1155,tomato soup,9
+1156,tomatoes,7
+1157,tomatoes and green chilies,14
+1158,top sirloin roast,7
+1159,top sirloin steaks,6
+1160,tortellini,12
+1161,tortilla,8
+1162,tortilla chips,3
+1163,tortillas,11
+1164,triple sec,8
+1165,tuna in water,9
+1166,tuna steaks,10
+1167,turkey breast,7
+1168,turkey carcass,4
+1169,turkey cutlets,4
+1170,turkey gravy,13
+1171,turkey wings,3
+1172,turmeric,10
+1173,turmeric powder,6
+1174,turnip,5
+1175,turnips,14
+1176,udon noodles,9
+1177,unbleached all-purpose flour,10
+1178,unbleached flour,11
+1179,unbleached white flour,7
+1180,unsalted butter,7
+1181,unsalted dry roasted peanuts,10
+1182,unsweetened applesauce,14
+1183,unsweetened cocoa,11
+1184,unsweetened cocoa powder,4
+1185,unsweetened dark chocolate,6
+1186,unsweetened flaked coconut,10
+1187,unsweetened pineapple juice,7
+1188,vanilla,9
+1189,vanilla beans,10
+1190,vanilla extract,4
+1191,vanilla ice cream,4
+1192,vanilla pudding mix,13
+1193,vanilla vodka,5
+1194,vanilla wafer crumbs,11
+1195,vanilla yogurt,11
+1196,veal,6
+1197,veal demi-glace,7
+1198,vegetable bouillon cubes,13
+1199,vegetable broth,6
+1200,vegetable oil,7
+1201,vegetable shortening,3
+1202,vegetable stock,3
+1203,vegetables,12
+1204,vegetarian chicken broth,3
+1205,veggie crumbles,6
+1206,velveeta cheese,6
+1207,vermicelli,5
+1208,vidalia onion,5
+1209,vidalia onions,5
+1210,vinegar,9
+1211,vital wheat gluten,4
+1212,vodka,14
+1213,walnut halves,5
+1214,walnut pieces,6
+1215,walnuts,4
+1216,warm water,9
+1217,wasabi paste,8
+1218,wasabi powder,11
+1219,water,14
+1220,water chestnuts,7
+1221,westphalian ham,12
+1222,wheat flour,5
+1223,wheat germ,5
+1224,whipped cream,11
+1225,whipped cream cheese,3
+1226,whipped topping,12
+1227,whipping cream,3
+1228,white baking chocolate,14
+1229,white bread,13
+1230,white bread flour,7
+1231,white cabbage,9
+1232,white chocolate chips,12
+1233,white corn,12
+1234,white fish fillets,14
+1235,white flour,8
+1236,white hominy,12
+1237,white onion,6
+1238,white onions,5
+1239,white pepper,14
+1240,white pepper powder,10
+1241,white raisins,13
+1242,white rum,14
+1243,white shoepeg corn,6
+1244,white sugar,12
+1245,white vinegar,12
+1246,white wine,13
+1247,white wine vinegar,11
+1248,whole almond,11
+1249,whole berry cranberry sauce,11
+1250,whole black peppercorns,8
+1251,whole cardamom pods,6
+1252,whole chicken,6
+1253,whole cloves,6
+1254,whole grain mustard,9
+1255,whole green onions,9
+1256,whole kernel corn,14
+1257,whole milk,7
+1258,whole milk ricotta cheese,5
+1259,whole mushroom,11
+1260,whole wheat bread,6
+1261,whole wheat flour,3
+1262,whole wheat spaghetti,11
+1263,wine vinegar,8
+1264,wonton skins,11
+1265,wooden skewers,7
+1266,worcestershire sauce,6
+1267,yam,8
+1268,yeast,11
+1269,yellow beans,10
+1270,yellow bell pepper,14
+1271,yellow cake batter,4
+1272,yellow cake mix,7
+1273,yellow cornmeal,4
+1274,yellow mustard,11
+1275,yellow onion,6
+1276,yellow onions,5
+1277,yellow pepper,5
+1278,yogurt,14
+1279,yogurt cheese,13
+1280,yukon gold potatoes,11
+1281,zucchini,8
