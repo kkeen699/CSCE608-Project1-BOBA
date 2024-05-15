@@ -124,3 +124,51 @@ CREATE TABLE IF NOT EXISTS `like_recipes` (
     ON UPDATE CASCADE ON DELETE CASCADE
 );
 
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/users.csv'  
+INTO TABLE users  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/recipes.csv'  
+INTO TABLE recipes  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/ingredients.csv'  
+INTO TABLE ingredients  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/categories.csv'  
+INTO TABLE categories  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/recipe_items.csv'  
+INTO TABLE recipe_items  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/recipe_cats.csv'  
+INTO TABLE recipe_cats  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/home/kcheng/Desktop/CSCE608-Project1-BOBA/data/like_recipes.csv'  
+INTO TABLE like_recipes  
+FIELDS TERMINATED BY ','  
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 ROWS;

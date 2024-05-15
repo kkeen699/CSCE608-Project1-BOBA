@@ -1,5 +1,6 @@
 import axios from "axios";
-const API_URL = "http://localhost:8080/api/myrecipe";
+// const API_URL = "http://localhost:8080/api/myrecipe";
+const API_URL = "/api/myrecipe";
 
 class MyRecipeService {
   
