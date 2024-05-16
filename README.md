@@ -1,7 +1,7 @@
 # CSCE 608 Database Systems Project 1
 ## BOBA - BOBA, Better Organized, Better Appetites 
 
-BOBA is a website application, providing three primary features: managing your food inventory, creating shopping lists, and discovering recipes.
+[BOBA](http://3.21.0.245/) is a website application, providing three primary features: managing your food inventory, creating shopping lists, and discovering recipes.
 
 The client directory is for React and the server directory is for Express.
 
